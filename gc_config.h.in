@@ -21,23 +21,23 @@
 #cmakedefine ID_PRODUCT @ID_PRODUCT@
 
 #ifndef SERIAL_NUMBER
-#define SERIAL_NUMBER "0123456789"
+#define SERIAL_NUMBER "0675438645"
 #endif
 
 #ifndef MANUFACTURER
-#define MANUFACTURER "HandsomeTech"
+#define MANUFACTURER "UFI_Tech"
 #endif
 
 #ifndef PRODUCT
-#define PRODUCT "HandsomeMod Device"
+#define PRODUCT "UFI_Device"
 #endif
 
 #ifndef ID_VENDOR
-#define ID_VENDOR "0x18d1"
+#define ID_VENDOR "0x18dd"
 #endif
 
 #ifndef ID_PRODUCT
-#define ID_PRODUCT "0xd001"
+#define ID_PRODUCT "0xd0d1"
 #endif
 
 #endif //GC_CONFIG_H
